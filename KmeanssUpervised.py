@@ -1,5 +1,3 @@
-from  sklearn import  datasets
-
 package = "sklearn.datasets"
 name1 = input("what dataset would you like to import? ")
 name = "load_"+name1
